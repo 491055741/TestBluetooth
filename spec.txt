@@ -1,0 +1,23 @@
+可连接
+查看距离
+呼叫
+断开连接有警告
+报警开关
+
+
+设置安全区域（家和公司位置），进入安全区域后不报警（进入区域后如何通知外围设备不报警）
+
+
+查看上次断开时的位置
+连接多个设备
+
+
+
+ -[LeAntiLostService peripheral:didDiscoverServices:]
+ <CBService: 0x15e91460, isPrimary = YES, UUID = 1804>[1804]
+ <CBService: 0x15e91500, isPrimary = YES, UUID = 1802>[1802]
+ <CBService: 0x15ec4cc0, isPrimary = YES, UUID = 1803>[1803]
+ <CBService: 0x15ec4d00, isPrimary = YES, UUID = Battery>[180F]
+ <CBService: 0x15ec6240, isPrimary = YES, UUID = Device Information>[180A]
+ <CBService: 0x15ec62a0, isPrimary = YES, UUID = FF00>[FF00]
+ <CBService: 0x15ec62e0, isPrimary = YES, UUID = FFE0>[FFE0]
