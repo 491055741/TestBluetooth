@@ -59,6 +59,36 @@
             endingLineNumber = "177"
             landmarkName = "-peripheral:didReadRSSI:error:"
             landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LeAntiLostService peripheral:didReadRSSI:error:]"
+                  moduleName = "TestBluetooth"
+                  urlString = "file:///Users/lipeng/workspace/TestBluetooth/TestBluetooth/LeAntiLostService.m"
+                  timestampString = "446742602.630314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LeAntiLostService peripheral:didReadRSSI:error:]"
+                  moduleName = "TestBluetooth"
+                  urlString = "file:///Users/lipeng/workspace/TestBluetooth/TestBluetooth/LeAntiLostService.m"
+                  timestampString = "446742602.621445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -1,0 +1,403 @@
+
+30.591803
+104.062074
+
+
+TestBluetooth[81265:460244] addr: Zhejiang Zhongda Futures Co.， Ltd. Chengdu Business Department<GEOMapItemStorage: 0x7e197120> {
+    placeData =     {
+        component =         (
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_ENTITY";
+                value =                 (
+                                        {
+                        entity =                         {
+                            name =                             (
+                                                                {
+                                    locale = en;
+                                    "string_value" = "Zhejiang Zhongda Futures Co.\Uff0c Ltd. Chengdu Business Department";
+                                }
+                            );
+                            type = AOI;
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            },
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_ADDRESS";
+                value =                 (
+                                        {
+                        address =                         {
+                            "localized_address" =                             (
+                                                                {
+                                    address =                                     {
+                                        formattedAddressLine =                                         (
+                                            "No.88 Fucheng Avenue Middle Section",
+                                            "Zhejiang Zhongda Futures Co.\Uff0c Ltd. Chengdu Business Department",
+                                            "Shiyangchang Residential District",
+                                            "No.88 Fucheng Avenue Middle Section",
+                                            "Wuhou Chengdu",
+                                            "Sichuan China"
+                                        );
+                                        structuredAddress =                                         {
+                                            administrativeArea = Sichuan;
+                                            country = China;
+                                            countryCode = CN;
+                                            dependentLocality =                                             (
+                                                "Shiyangchang Residential District"
+                                            );
+                                            fullThoroughfare = "No.88 Fucheng Avenue Middle Section";
+                                            geoId =                                             (
+                                            );
+                                            locality = Chengdu;
+                                            subLocality = Wuhou;
+                                            subThoroughfare = "No.88";
+                                            thoroughfare = "Fucheng Avenue Middle Section";
+                                        };
+                                    };
+                                    locale = en;
+                                }
+                            );
+                            "spoken_navigation_address" =                             (
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "No.88 Fucheng Avenue Middle Section";
+                                },
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "Zhejiang Zhongda Futures Co.\Uff0c Ltd. Chengdu Business Department";
+                                },
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "Wuhou Chengdu";
+                                },
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "Sichuan China";
+                                }
+                            );
+                            "spoken_structured_address" =                             (
+                                                                {
+                                    "spoken_structured_address" =                                     {
+                                        administrativeArea = Sichuan;
+                                        country = China;
+                                        countryCode = CN;
+                                        dependentLocality =                                         (
+                                            "Shiyangchang Residential District"
+                                        );
+                                        fullThoroughfare = "No.88 Fucheng Avenue Middle Section";
+                                        geoId =                                         (
+                                        );
+                                        locality = Chengdu;
+                                        subLocality = Wuhou;
+                                        subThoroughfare = "No.88";
+                                        thoroughfare = "Fucheng Avenue Middle Section";
+                                    };
+                                }
+                            );
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            },
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_PLACE_INFO";
+                value =                 (
+                                        {
+                        "place_info" =                         {
+                            center =                             {
+                                lat = "30.5891266667";
+                                lng = "104.06459";
+                            };
+                            timezone =                             {
+                                identifier = "China/Beijing";
+                            };
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            },
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_BOUNDS";
+                value =                 (
+                                        {
+                        bounds =                         {
+                            "map_region" =                             {
+                                eastLng = "104.064542";
+                                northLat = "30.587349";
+                                southLat = "30.590904";
+                                westLng = "104.064638";
+                            };
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            }
+        );
+        "result_provider_id" = 57879;
+        status = "STATUS_SUCCESS";
+    };
+}
+2015-02-07 23:15:52.756 TestBluetooth[81265:460244] addr: Zhejiang Zhongda Futures Co.， Ltd. Chengdu Business Department<GEOMapItemStorage: 0x80184ef0> {
+    placeData =     {
+        component =         (
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_ENTITY";
+                value =                 (
+                                        {
+                        entity =                         {
+                            name =                             (
+                                                                {
+                                    locale = en;
+                                    "string_value" = "Zhejiang Zhongda Futures Co.\Uff0c Ltd. Chengdu Business Department";
+                                }
+                            );
+                            type = AOI;
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            },
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_ADDRESS";
+                value =                 (
+                                        {
+                        address =                         {
+                            "localized_address" =                             (
+                                                                {
+                                    address =                                     {
+                                        formattedAddressLine =                                         (
+                                            "No.88 Fucheng Avenue Middle Section",
+                                            "Zhejiang Zhongda Futures Co.\Uff0c Ltd. Chengdu Business Department",
+                                            "Shiyangchang Residential District",
+                                            "No.88 Fucheng Avenue Middle Section",
+                                            "Wuhou Chengdu",
+                                            "Sichuan China"
+                                        );
+                                        structuredAddress =                                         {
+                                            administrativeArea = Sichuan;
+                                            country = China;
+                                            countryCode = CN;
+                                            dependentLocality =                                             (
+                                                "Shiyangchang Residential District"
+                                            );
+                                            fullThoroughfare = "No.88 Fucheng Avenue Middle Section";
+                                            geoId =                                             (
+                                            );
+                                            locality = Chengdu;
+                                            subLocality = Wuhou;
+                                            subThoroughfare = "No.88";
+                                            thoroughfare = "Fucheng Avenue Middle Section";
+                                        };
+                                    };
+                                    locale = en;
+                                }
+                            );
+                            "spoken_navigation_address" =                             (
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "No.88 Fucheng Avenue Middle Section";
+                                },
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "Zhejiang Zhongda Futures Co.\Uff0c Ltd. Chengdu Business Department";
+                                },
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "Wuhou Chengdu";
+                                },
+                                                                {
+                                    locale = "en_US";
+                                    "string_value" = "Sichuan China";
+                                }
+                            );
+                            "spoken_structured_address" =                             (
+                                                                {
+                                    "spoken_structured_address" =                                     {
+                                        administrativeArea = Sichuan;
+                                        country = China;
+                                        countryCode = CN;
+                                        dependentLocality =                                         (
+                                            "Shiyangchang Residential District"
+                                        );
+                                        fullThoroughfare = "No.88 Fucheng Avenue Middle Section";
+                                        geoId =                                         (
+                                        );
+                                        locality = Chengdu;
+                                        subLocality = Wuhou;
+                                        subThoroughfare = "No.88";
+                                        thoroughfare = "Fucheng Avenue Middle Section";
+                                    };
+                                }
+                            );
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            },
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_PLACE_INFO";
+                value =                 (
+                                        {
+                        "place_info" =                         {
+                            center =                             {
+                                lat = "30.5891266667";
+                                lng = "104.06459";
+                            };
+                            timezone =                             {
+                                identifier = "China/Beijing";
+                            };
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            },
+                        {
+                attribution =                 {
+                    "attribution_url" =                     (
+                        "iosamap://viewPOIDetail?sourceApplication=apple&poiid="
+                    );
+                    "vendor_id" = "com.autonavi";
+                };
+                "cache_control" = CACHEABLE;
+                "start_index" = 0;
+                status = "STATUS_SUCCESS";
+                ttl = 15811200;
+                type = "COMPONENT_TYPE_BOUNDS";
+                value =                 (
+                                        {
+                        bounds =                         {
+                            "map_region" =                             {
+                                eastLng = "104.064542";
+                                northLat = "30.587349";
+                                southLat = "30.590904";
+                                westLng = "104.064638";
+                            };
+                        };
+                    }
+                );
+                "values_available" = 1;
+                version = 1;
+                "version_domain" =                 (
+                    autonavi,
+                    revgeo,
+                    CN
+                );
+            }
+        );
+        "result_provider_id" = 57879;
+        status = "STATUS_SUCCESS";
+    };
+}
